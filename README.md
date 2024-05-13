@@ -62,7 +62,7 @@ Intro
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/DorinnaPentchev-2447/8DB5417348A91C1E?sharingId=6D41FAA1F2E789E2">
-  <img src="https://github.com/dori104/dori104/blob/Assets/Certification_Designer_Core.png" width="20%">
+  <img src="https://github.com/dori104/dori104/blob/Assets/microsoft-certified-associate-badge.png" width="20%">
 </a>
 
 
