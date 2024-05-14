@@ -4,9 +4,6 @@
 
 Intro
 
-<br>
-<br>
-<br>
 
 ## ⭐ Data Viz Projects
 
