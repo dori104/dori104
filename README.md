@@ -7,7 +7,7 @@ Intro
 
 ## ⭐ Data Viz Projects
 
-<a href="https://public.tableau.com/app/profile/dorinna/viz/ProductsDashboard_17155989437130/Dashboard1">
+<a href="https://github.com/dori104/ProductsDashboard/tree/main">
     <img src="https://public.tableau.com/thumb/views/ProductsDashboard_17155989437130/Dashboard1" width ="25%">
   </a>
 
