@@ -8,39 +8,36 @@ Intro
 ## ⭐ Data Viz Projects
 
 <a href="https://github.com/dori104/ProductsDashboard/tree/main">
-    <img src="https://public.tableau.com/thumb/views/ProductsDashboard_17155989437130/Dashboard1" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/ProductsDashboard_17155989437130/Dashboard1" width ="25%" title="Retail Products Dashboard">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/OffshoreCentresDashboard/PortcoPerformance">
-    <img src="https://public.tableau.com/thumb/views/OffshoreCentresDashboard/PortcoPerformance" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/OffshoreCentresDashboard/PortcoPerformance" width ="25%" title="Offshore Centres Performance">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/AnimalCrossingCritterSearchNewHorizons/ACNHCritterLog">
-    <img src="https://public.tableau.com/thumb/views/AnimalCrossingCritterSearchNewHorizons/ACNHCritterLog" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/AnimalCrossingCritterSearchNewHorizons/ACNHCritterLog" width ="25%" title="Animal Crossing New Horizons Critter Log">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/HRAttritionDashboard_16590961872090/HRAttritionDashboard">
-    <img src="https://public.tableau.com/thumb/views/HRAttritionDashboard_16590961872090/HRAttritionDashboard" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/HRAttritionDashboard_16590961872090/HRAttritionDashboard" width ="25%" title="HR Attrition Dashboard">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/HotelPackageRevenueDashboard/Hotelpackagedashboard">
-    <img src="https://public.tableau.com/thumb/views/HotelPackageRevenueDashboard/Hotelpackagedashboard" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/HotelPackageRevenueDashboard/Hotelpackagedashboard" width ="25%" title="Hotel Packages Dashboard">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/PurchasingDashboard_16549858306430/Dashboard1">
-    <img src="https://public.tableau.com/thumb/views/PurchasingDashboard_16549858306430/Dashboard1" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/PurchasingDashboard_16549858306430/Dashboard1" width ="25%" title="Purchasing Dashboard">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/HRAnalytics-EmployeePerformance/Dashboard1">
-    <img src="https://public.tableau.com/thumb/views/HRAnalytics-EmployeePerformance/Dashboard1" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/HRAnalytics-EmployeePerformance/Dashboard1" width ="25%" title="Employee Performance Dashboard">
   </a>
 
 <a href="https://public.tableau.com/app/profile/dorinna/viz/NYCRestaurantInspections_16435684787370/NYCHealthInspections">
-    <img src="https://public.tableau.com/thumb/views/NYCRestaurantInspections_16435684787370/NYCHealthInspections" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/NYCRestaurantInspections_16435684787370/NYCHealthInspections" width ="25%" title="NYC Restaurant Inspections">
   </a>
-
-
-## About Me
 
 
 ## Certifications
@@ -68,5 +65,5 @@ Intro
 You can find me on the following sites
 
 - [LinkedIn](https://www.linkedin.com/in/dorinna-pentchev/)
-- [GitHub](https://github.com/dori104)
 - [Tableau Public](https://public.tableau.com/app/profile/dorinna/vizzes)
+- [GitHub](https://github.com/dori104)
