@@ -2,7 +2,15 @@
 
 # Dorinna Pentchev
 
-Intro
+Hello! I'm a data professional, specialising in data visualisation. I have worked with clients across a wide range of industries (including communications, aviation, finance, charity etc.) to help them obtain valuable insights from their data to drive business decisions.
+<br></br>
+Main tools:
+<ul>
+    <li>Tableau (including Desktop, Server, Cloud and Prep)</li>
+    <li>SQL (experience in Oracle and Snowflake)</li>
+    <li>Alteryx</li>
+    <li>Power BI</li>
+</ul>
 
 
 ## ⭐ Data Viz Projects
@@ -66,4 +74,3 @@ You can find me on the following sites
 
 - [LinkedIn](https://www.linkedin.com/in/dorinna-pentchev/)
 - [Tableau Public](https://public.tableau.com/app/profile/dorinna/vizzes)
-- [GitHub](https://github.com/dori104)
