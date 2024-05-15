@@ -74,3 +74,4 @@ You can find me on the following sites
 
 - [LinkedIn](https://www.linkedin.com/in/dorinna-pentchev/)
 - [Tableau Public](https://public.tableau.com/app/profile/dorinna/vizzes)
+- [Alteryx Community](https://community.alteryx.com/t5/user/viewprofilepage/user-id/326365)
